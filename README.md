@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<!--<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">-->
 
 # Rickson Lima
 
@@ -6,7 +6,7 @@
 Sou um estudande de desenvolvimento Front-end :computer:
 <br> Sinto hype em explorar o universo de programação e conhecer novas tecnologias
 
- :rocket:  &nbsp; Estou trabalhando no **Tribunal de Justiça do Estado do Amazonas**
+ 🏛️  &nbsp; Sou estagiário no **Tribunal de Justiça do Estado do Amazonas**
  <br/> :books: &nbsp; Estou estudando: ReactJS, React Native & JavaScript
  <br/> 💬  &nbsp; Sobre mim: Curto assistir a uns filmes com os amigos e jogar um LoLzinho 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RicksonLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickson-lima-a06a391b5/)](https://www.linkedin.com/in/rickson-lima-a06a391b5/) 
