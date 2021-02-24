@@ -5,7 +5,7 @@
 ## Olá mundo 👋
 Sou um estudande de Sistemas de Informação :computer:
 <br> Sinto hype em explorar o universo de programação e conhecer novas tecnologias :rocket:
-<br> Ultimaente tenho me aventurado em desenvolvimento Front-end 🧑‍💻
+<br> Ultimamente tenho me aventurado em desenvolvimento Front-end 🧑‍💻
 
  🏛️  &nbsp; Sou estagiário no **Tribunal de Justiça do Estado do Amazonas**
  <br/> :books: &nbsp; Estou estudando: ReactJS, React Native & JavaScript
