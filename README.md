@@ -1,8 +1,6 @@
 <!--<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">-->
 
-# Rickson Lima
-
-## Olá mundo 👋
+# Olá mundo 👋
 
  🏛️  &nbsp; Sou estagiário no **Tribunal de Justiça do Estado do Amazonas**
  <br/> :books: &nbsp; Estou estudando: ReactJS, React Native & JavaScript
