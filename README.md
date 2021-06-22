@@ -3,7 +3,6 @@
 # Rickson Lima
 
 ## Olá mundo 👋
-Um estudante de Sistemas de Informação se aventurando na programação 🧑‍💻
 
  🏛️  &nbsp; Sou estagiário no **Tribunal de Justiça do Estado do Amazonas**
  <br/> :books: &nbsp; Estou estudando: ReactJS, React Native & JavaScript
