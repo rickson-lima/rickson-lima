@@ -2,7 +2,7 @@
 
 # Olá mundo 👋
 
- 👨‍💻  &nbsp; Analista Desenvolvedor Jr. no **Grupo ICTS**
+ 👨‍💻  &nbsp; Sou Analista Desenvolvedor Jr. no **Grupo ICTS**
  <br/> :books: &nbsp; Estou estudando: ReactJS, React Native & JavaScript
  <br/> 💬  &nbsp; Sobre mim: Curto assistir a uns filmes com os amigos e jogar um LoLzinho 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Rickson%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickson-lima-a06a391b5/)](https://www.linkedin.com/in/rickson-lima-a06a391b5/) 
